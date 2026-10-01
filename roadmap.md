@@ -1,0 +1,7 @@
+- [x] Establish visual direction, brand assets, and five distinct therapy images.
+- [x] Build the home page and five detailed service pages with navigation.
+- [x] Add a playful 3D loading scene, motion, and branded favicon.
+- [x] Verify desktop and mobile presentation and interactions.
+- [ ] Replace reference imagery with the center's two photos when provided (awaiting photos).
+- [ ] Improve loader, logo visibility, hero photo, typography, and additional 3D accents.
+- [ ] Add a secure appointment request form and connect contact actions to it; verify desktop and mobile.
