@@ -18,7 +18,8 @@ const buttonVariants = cva(
         link: "text-primary underline-offset-4 hover:underline",
         brand: "bg-primary text-primary-foreground hover:bg-ocean rounded-sm shadow-none",
         light: "bg-background text-foreground hover:bg-secondary rounded-sm shadow-none",
-        outlineBrand: "border border-primary text-primary bg-background hover:bg-secondary rounded-sm shadow-none",
+        outlineBrand:
+          "border border-primary text-primary bg-background hover:bg-secondary rounded-sm shadow-none",
       },
       size: {
         default: "h-9 px-4 py-2",
